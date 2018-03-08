@@ -5,19 +5,19 @@ Welcome to the Blockchain for Developers DeCal's midterm assignment. You'll be d
 
 ###### Project Partner 1
 
-Name:
+Name: Qingen Zhang
 
-SID:
+SID: 26363223
 
-Email:
+Email: qingen_zhang@berkeley.edu
 
 ###### Project Partner 2
 
-Name:
+Name: Renjun Cheng
 
-SID:
+SID: 26327618
 
-Email:
+Email: cheng960816@berkeley.edu
 
 ###### Project Partner 3 (if any)
 
