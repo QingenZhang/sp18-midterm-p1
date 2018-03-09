@@ -21,11 +21,11 @@ Email: cheng960816@berkeley.edu
 
 ###### Project Partner 3 (if any)
 
-Name:
+Name: Minxing Chen
 
-SID:
+SID: 3032725503
 
-Email:
+Email:chenmx00@berkeley.edu
 
 ## Midterm Instructions
 
